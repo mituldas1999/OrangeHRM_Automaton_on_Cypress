@@ -1,5 +1,5 @@
 # OrangeHRM_Automaton_on_Cypress
-
+#Thank_You_Opening_my_project_"This Project Created By Mitul_Das"
 <b><p>step-1: Create a folder for your project </p>
 <p>step-2: Create Another folder into that folder</p>
 <p>step-3: go to CMD from that folder</p>
@@ -18,4 +18,4 @@
 <p>step-8: It will install cupress on your project then you can run your project by </p>
     <p>       run this command npx cypress open , yarn start</p> </b>
 
-    #Thank_You_Opening_my_project
+    
